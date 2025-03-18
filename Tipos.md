@@ -10,8 +10,11 @@
    Usa luz laser para detectar el movimiento.
 - Raton Giroscopio:
   Usa sensores giroscopicos para mover el cursor sin necesidad de una superficie.
+  ![opvslas](https://github.com/anxowo/FHW-Raton/blob/main/img/raton-optico-vs-laser.jpg)
 -----------------------------------------
 ## Segun su Conectividad
 - Con Cable: Baja latencia , mas economicos, sin necesidad de recargarlos.
 - Inalambrica: Mayor movilidad, Diseño mas limpio.
+  ![dongle](https://github.com/anxowo/FHW-Raton/blob/main/img/dongle.jpg)
+  
   
